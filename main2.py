@@ -1,0 +1,1 @@
+print (" la raiz septima de 22 es ",1.7777)
